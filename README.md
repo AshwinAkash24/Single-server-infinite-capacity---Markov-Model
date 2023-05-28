@@ -56,6 +56,7 @@ print("---------------------------------------------------------------")
 
 ## Output :
 
+![m1](https://github.com/ragulmani936/Single-server-infinite-capacity---Markov-Model/assets/94881918/ec55a2e6-f0a3-4f1c-8d21-9621c1372a12)
 
 
 ## Result :
